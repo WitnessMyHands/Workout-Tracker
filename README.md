@@ -10,8 +10,8 @@ This fitness tracker allows users to track activities labeled under Resistance a
 
 - [Description](#Description)
 - [Installation](#Installation)
-- [License](#License)
 - [Gallery](#Gallery)
+- [License](#License)
 - [Questions](#Questions)
 
 ## Description
